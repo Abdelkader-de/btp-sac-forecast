@@ -1,0 +1,8 @@
+#
+#Mon Apr 10 10:35:10 UTC 2023
+URL=https\://mock-srv-application-routes/v2/op-api-business-partner-srv
+Name=cpapp-bupa
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=risk manageent app - mock.server
