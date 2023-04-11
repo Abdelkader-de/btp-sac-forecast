@@ -86,7 +86,7 @@
         },
         "[production]": {
           "credentials": {
-            "destination": "cpapp-bupa"
+            "destination": "mock-server"
           }
           
         }
